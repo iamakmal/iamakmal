@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_iamakmal_" target="blank"><img src="https://img.shields.io/twitter/follow/_iamakmal_?logo=twitter&style=for-the-badge" alt="_iamakmal_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://iamakmal.github.io/portfolio/](https://iamakmal.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://iamakmal.github.io](https://iamakmal.github.io)
 
 - 📫 How to reach me **m.akmalalavi@gmail.com**
 
