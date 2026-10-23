@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akmal</h1>
-<h3 align="center">A passionate full stack developer looking for an internship in the IT industry.</h3>
+<h3 align="center">A passionate full stack developer currently working in Nexus AML.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakmal&label=Profile%20views&color=0e75b6&style=flat" alt="iamakmal" /> </p>
 
